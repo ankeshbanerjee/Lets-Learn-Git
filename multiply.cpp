@@ -2,7 +2,8 @@
 using namespace std;
 
 int main (){
-    int a=2, b=3;
-    cout << a*b ;
+    int p=2, q=3,r=4;
+    cout << p*q*r ;
 return 0;
-}
+
+
