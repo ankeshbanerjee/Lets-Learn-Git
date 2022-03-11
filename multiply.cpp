@@ -2,7 +2,7 @@
 using namespace std;
 
 int main (){
-    int a=2, b=3;
+    int p=2, q=3;
     cout << a*b ;
 return 0;
-}
+
